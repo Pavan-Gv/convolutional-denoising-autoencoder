@@ -127,5 +127,8 @@ plt.show()
 ![image](https://github.com/Pavan-Gv/convolutional-denoising-autoencoder/assets/94827772/69d8c85a-b6a8-4aaf-af72-12ff4cd8dfc0)
 
 
+## RESULT:
 
-## RESULT
+Thus we have successfully developed a convolutional autoencoder for image denoising application.
+
+
